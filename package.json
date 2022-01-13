@@ -1,0 +1,20 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto ByteBank para seus cliente",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusSantanaL/estudo-javascript.git"
+  },
+  "author": "Vinicius Santana Leão da Silva viniciussantanaleao@gmail.com",
+  "license": "ISC",
+  "type":"module",
+  "bugs": {
+    "url": "https://github.com/ViniciusSantanaL/estudo-javascript/issues"
+  },
+  "homepage": "https://github.com/ViniciusSantanaL/estudo-javascript#readme"
+}
